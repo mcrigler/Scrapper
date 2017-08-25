@@ -5,8 +5,7 @@ This webscraper scrapes celebrity news and gossip from the TMZ website (https://
 Checkout [https://enigmatic-oasis-89377.herokuapp.com/](https://enigmatic-oasis-89377.herokuapp.com/) to view a demo of the application.  
 
 # Demo
-![Demo screen shot](/public/images/Scrapper.PNG)
-
+![Example Home page](/public/images/demo1.png)
 ## Technologies used
 
  * Node.js
